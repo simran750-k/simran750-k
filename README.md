@@ -11,19 +11,19 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="#" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
   </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
   </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
+  <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
 </p>
