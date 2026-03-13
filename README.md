@@ -70,15 +70,15 @@
 
 ### 📊 GitHub Activity & Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simrankhatiwada&theme=tokyonight&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simran750-k&theme=tokyonight&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simrankhatiwada&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simrankhatiwada&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simrankhatiwada&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simrankhatiwada&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simran750-k&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simran750-k&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simran750-k&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simran750-k&theme=vue" width="49.5%" />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simrankhatiwada&theme=tokyonight" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran750-k&theme=tokyonight" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -95,5 +95,5 @@
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simrankhatiwada&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=simran750-k&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
