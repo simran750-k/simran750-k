@@ -4,7 +4,9 @@
 <h1 align="center">⭐ Let's make Success Together! ⭐</h1>
 <div align="center">
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding Animation" width="400"/>
+  <a href="https://www.vecteezy.com/vector-art/44774430-freelance-working-concept-with-people-scene-in-flat-outline-design-woman-developer-doing-tasks-remotely-and-programming-on-laptop-at-home-illustration-with-line-character-situation-for-web">
+    <img src="https://static.vecteezy.com/system/resources/previews/044/774/430/original/freelance-working-concept-with-people-scene-in-flat-outline-design-woman-developer-doing-tasks-remotely-and-programming-on-laptop-at-home-illustration-with-line-character-situation-for-web-png.png" alt="Woman Developer Working Remotely" width="400"/>
+  </a>
 </p>
 
 
@@ -87,11 +89,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
-<!-- 
-🐍 SNAKE GAME - Uncomment after setting up GitHub Actions
-To enable: Create a repository named 'simran750-k' with GitHub Actions workflow
-from https://github.com/Platane/snk
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simran750-k/simran750-k/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="80%"/>
+</p>
+
 
 ### 👀 Profile Views
 
