@@ -4,7 +4,7 @@
 <h1 align="center">⭐ Let's make Success Together! ⭐</h1>
 <div align="center">
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding Animation" width="400"/>
+  <img src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://imgs.search.brave.com/n9PWL_2CPOWab1Z0_B5TVY5FI3cwKl23jl83yELJUNQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNDkv/OTYzLzE2Mi9zbWFs/bC93b21hbi1wcm9n/cmFtbWVyLXdyaXRp/bmctY29kZS1vbi1s/YXB0b3AtdmVjdG9y/LmpwZw)" alt="Coding Animation" width="400"/>
 </p>
 
 
