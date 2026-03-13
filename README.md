@@ -5,7 +5,7 @@
 <div align="center">
 <p align="center">
   <a href="https://www.vecteezy.com/vector-art/44774430-freelance-working-concept-with-people-scene-in-flat-outline-design-woman-developer-doing-tasks-remotely-and-programming-on-laptop-at-home-illustration-with-line-character-situation-for-web">
-    <img src="https://static.vecteezy.com/system/resources/previews/044/774/430/original/freelance-working-concept-with-people-scene-in-flat-outline-design-woman-developer-doing-tasks-remotely-and-programming-on-laptop-at-home-illustration-with-line-character-situation-for-web-png.png" alt="Woman Developer Working Remotely" width="400"/>
+    <img src="https://imgs.search.brave.com/qYL-SFIKAMyZ_mBUNTU98_5S95mPTKHZZ_dG_WLULpE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS12ZWN0b3Iv/d29tYW4td29ya2lu/Zy1uZXctYXBwXzIz/LTIxNDg2ODIxMDIu/anBnP3NlbXQ9YWlz/X2h5YnJpZCZ3PTc0/MCZxPTgw" alt="Woman Developer Working Remotely" width="400"/>
   </a>
 </p>
 
@@ -89,9 +89,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simran750-k/simran750-k/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="80%"/>
-</p>
 
 
 ### 👀 Profile Views
